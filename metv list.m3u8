@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:0, CCTV 1综合
+http://115.233.62.23/live.aishang.ctlcdn.com/00000110240127_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 2财经
+#EXTVLCOPT:network-caching=1000
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240244_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 3综艺
+#EXTVLCOPT:network-caching=1000
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240245_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 5体育
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240246_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 5体育+
+http://cctv5plus.vtime.cntv.cloudcdn.net:8500/cache/257_/seg0/index.m3u8
+#EXTINF:0, CCTV 6电影
+#EXTVLCOPT:network-caching=1000
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240247_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV-7军事农业
+#EXTVLCOPT:network-caching=1000
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240248_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 8电视剧
+http://cctv8.vtime.cntv.cloudcdn.net:8500/cache/227_/seg0/index.m3u8
+#EXTINF:0, CCTV 9记录
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240250_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 10科教
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240251_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 12社会与法
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240252_1/encoder/3/playlist.m3u8
+#EXTINF:0, CCTV 14少儿
+http://115.233.62.9/live.aishang.ctlcdn.com/00000110240253_1/encoder/3/playlist.m3u8
+#EXTINF:0, 广东体育
+http://stream1.grtn.cn/typd/playlist.m3u8?_upt=?ts
+#EXTINF:0, 东方卫视
+http://60.214.208.202:9222/mweb/cmv/dfws.m3u8
+#EXTINF:0, 麒麟儿童
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:0, 香港凤凰卫视中文
+http://119.167.138.7/live/zixun800k.m3u8
+#EXTINF:0, 香港凤凰卫视资讯HD
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:0, 香港电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, 香港TV
+http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338
+#EXTINF:0, Letv-亲子频道
+http://live.gslb.letv.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-动作电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, Letv-动漫台
+http://live.gslb.letv.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, Letv-奥德曼
+http://live.gslb.letv.com/gslb?stream_id=lb_atm_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:0, Letv-欧美卡通
+http://live.gslb.letv.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-猪猪侠
+http://live.gslb.letv.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-周星驰
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, Letv-喜剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, Letv-多啦A梦
+http://live.gslb.letv.com/gslb?stream_id=lb_dlam_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-大头儿子
+http://live.gslb.letv.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-张艺谋
+http://live.gslb.letv.com/gslb?stream_id=lb_zym_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:0, Letv-徐克
+http://live.gslb.letv.com/gslb?stream_id=lb_xuke_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-成龙
+http://live.gslb.letv.com/gslb?stream_id=lb_cl_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:0, Letv-热门美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:0, Letv-电视剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, Letv-经典美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-综艺
+http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, Letv-郭德纲
+http://live.gslb.letv.com/gslb?stream_id=lb_gdg_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, Letv-韩剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, Letv-1080播不停
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, 兵团卫视
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+#EXTINF:0, 战旗tv-20910
+http://dlhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8
+#EXTINF:0, 战旗tv-219影视电影
+http://dlhls.cdn.zhanqi.tv/zqlive/59855_yIWkv.m3u8
+#EXTINF:0, 战旗tv-24小时影业
+http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
+#EXTINF:0, 战旗tv-V字影院
+http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+#EXTINF:0, 战旗tv-亚洲影院
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:0, 战旗tv-名侦探柯南
+http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:0, 战旗tv-岳不群影院
+http://dlhls.cdn.zhanqi.tv/zqlive/37047_KWOM9.m3u8
+#EXTINF:0, 战旗tv-日韩影视
+http://dlhls.cdn.zhanqi.tv/zqlive/284_zMohT.m3u8
+#EXTINF:0, 战旗tv-日韩综艺
+http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
+#EXTINF:0, 战旗tv-日韩综艺2
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
+#EXTINF:0, 战旗tv-欧美大片
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:0, 战旗tv-火影忍者
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:0, 战旗tv-火影死神
+http://dlhls.cdn.zhanqi.tv/zqlive/59285_hhl4d.m3u8
+#EXTINF:0, 战旗tv-蜡笔小新
+http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:0, 战旗tv-韩SBS-RunningMan
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34822_KA3zE
+#EXTINF:0, 旅游卫视
+http://web-play.pptv.com/web-m3u8-300158.m3u8?type=mpptv&playback=0&kk=e971e4cc2b8dc893f37e603dc98c92b1-9956-5697b4db&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com
+#EXTINF:0, 湖北卫视
+http://live6.hbtv.com.cn/masvod/HLSLive/51/hbws_q2.m3u8
+#EXTINF:0, 湖南卫视
+http://tv03.tsytv.com.cn/liveho/HunanHDm-500K.stream/chunklist.m3u8
+#EXTINF:0, 美国中文电视
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:0, NASA-TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8
+#EXTINF:0, ETTV东森美洲
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:0, ICN国际卫视
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:0, MV
+http://live.gslb.letv.com/gslb?stream_id=lb_mv_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:0, 中国电影
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:0, 动物世界
+http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:0, 台湾大爱
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:0, 壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:0, 中天综合
+http://220.128.208.114/CtiGrence.m3u8
+#EXTINF:0, 中台湾生活网
+http://27.100.64.99:1935/liveedge/smil:live_1_1_iphone.smil/playlist.m3u8
+#EXTINF:0, 中国交通台
+http://r.gslb.lecloud.com/live/hls/20151111300009925/desc.m3u8
+#EXTINF:0, 好消息
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:0, 好莱坞
+http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:0, 广东南方卫视
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:0, 澳亚卫视
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:0, 美国中文电视
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:0, 美洲台
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:0, 韩KBS
+http://kbpull.kktv8.com/livekktv/86312365/playlist.m3u8
