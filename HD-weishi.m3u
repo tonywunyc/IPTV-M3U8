@@ -105,4 +105,5 @@ http://183.207.249.15/PLTV/3/224/3221225577/index.m3u8
 http://web-play.pptv.com/web-m3u8-300157.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
 #EXTINF:-53,天津卫视高清
 http://web-play.pptv.com/web-m3u8-300160.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
-#EXTINF:-54,BTV北京卫视高清,http://web-play.pptv.com/web-m3u8-300166.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-54,BTV北京卫视高清
+http://web-play.pptv.com/web-m3u8-300166.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
